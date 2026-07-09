@@ -38,7 +38,7 @@ https://github.com/oxyroid/M3UAndroid
 - Click "SUBSCRIBE"
 - you might need to restart your app and try it one more time
 
-### For pc linux, macos, windows
+### For linux, macos, windows
 - Open vlc app
 - Media
 - Open Network Streme
@@ -46,7 +46,7 @@ https://github.com/oxyroid/M3UAndroid
 - paste https://raw.githubusercontent.com/xenxaarn/familyplusiptv/main/familyplus.m3u
 - Press Ctrl + L to open the playlist
 
-### For iphones uner ios 18 vlc just works for ios 26 or higher use NetIPTVPro
+### For iphones under ios 18 vlc works for ios 26 or higher use NetIPTVPro
 - Open vlc
 - Browse
 - Open Network Streme
