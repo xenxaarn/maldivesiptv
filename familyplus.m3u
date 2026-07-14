@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 
-#EXTINF:-1 group-title="Maldives Live Network",Channel 13 (720p) [Not 24/7]
-https://stream.theyraonline.com/live/channel13@live/index.m3u8
 #EXTINF:-1 group-title="Maldives Live Network",Disney International HD (1080p)
 http://149.71.34.166:8002/play/a01p/index.m3u8
 #EXTINF:-1 group-title="Maldives Live Network",Maldives TV (720p)
@@ -3865,3 +3863,19 @@ https://lana.psm.mv/live/tvm.m3u8
 https://watch.yingyujieshuo.top/p/47098fcb-5e77-4a77-b791-ba08fd47c5d7
 #EXTINF:-1 tvg-name="FussBall TV" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/fussball.png" group-title="FIFA World Cup 2026",FussBall TV (4K Live)
 https://cdn.staticres.top/p/b1ea7ad7-d641-4c00-8b52-185c98fb9190
+#EXTINF:-1 tvg-name="FOX 03" tvg-logo="" group-title="FIFA World Cup",FOX 03
+http://stream.cammonitorplus.net/1752/index.m3u8
+#EXTINF:-1 group-title="FIFA World Cup 2026",Channel 465848
+http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465848
+#EXTINF:-1 group-title="FIFA World Cup 2026",Channel 465855
+http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465855
+#EXTINF:-1 group-title="FIFA World Cup 2026",Channel 465856
+http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465856
+#EXTINF:-1 group-title="FIFA World Cup 2026",Channel 465858
+http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465858
+#EXTINF:-1 group-title="FIFA World Cup 2026",Channel 465859
+http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465859
+#EXTINF:-1 group-title="FIFA World Cup 2026",Channel 465873
+http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465873
+#EXTINF:-1 group-title="FIFA World Cup 2026",Channel 465875
+http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465875
